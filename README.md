@@ -1,2 +1,5 @@
 # blazor-movies
-Example project in Blazor
+Example projects in Blazor:
+- Weather app
+- Todo list app
+- Movies gallery app
